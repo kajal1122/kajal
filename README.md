@@ -43,10 +43,7 @@ You can click the Preview link to take a look at your changes.
 
 </div>
 
-
-<div align='center'><h2>GitHub Stats 📈</h2>
-
-![Kajal Github Stats](https://github-readme-stats.vercel.app/api?username=kajal1122&show_icons=true&theme=midnight-purple&text_color=BD632F) 
+<div align='center'>
 
 <h2>Most Used Language</h2>
 
